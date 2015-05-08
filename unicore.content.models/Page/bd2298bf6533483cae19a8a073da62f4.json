@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "La vie d\u2019un enfant est en danger s\u2019il a plusieurs selles liquides en l\u2019espace d\u2019une heure\r\nou s\u2019il y a du sang dans ses selles. Il faut alors imm\u00e9diatement solliciter l\u2019aide d\u2019un\r\nagent de sant\u00e9 qualifi\u00e9. ", 
+  "description": "La vie d\u2019un enfant est en danger s\u2019il a plusieurs selles liquides en l\u2019espace d\u2019une heure\r\nou s\u2019il y a du sang dans ses selles. Il faut alors imm\u00e9diatement solliciter l\u2019aide d\u2019un\r\nagent de sant\u00e9 qualifi\u00e9..", 
   "language": "fre_FR", 
   "title": "La vie d\u2019un enfant est en danger s\u2019il a plusieurs selles liquides en l\u2019espace d\u2019une heure ou s\u2019il y a du sang dans ses selles. Il faut alors imm\u00e9diatement solliciter l\u2019aide d\u2019un agent de sant\u00e9 qualifi", 
   "primary_category": "810c0747a0fb4c5583125ef8d6a59f6f", 
   "created_at": "2014-11-30T05:56:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-08T12:06:30.402044+00:00", 
+  "modified_at": "2015-05-08T12:06:36.648323+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
